@@ -61,7 +61,7 @@ through the social networks:
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
   </a>
   <a href="https://www.linkedin.com/in/dima-kolyas/"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
-  <a href="dimakol@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Mail-EA4335?logo=Gmail&logoColor=white&style=for-the-badge" /></a>
+  <a href="mailto:dimakol@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Mail-EA4335?logo=Gmail&logoColor=white&style=for-the-badge" /></a>
 </p>
 
 ---
