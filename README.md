@@ -1,3 +1,7 @@
+<h1 align='center'>
+	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&multiline=true&width=435&height=60&lines=%E2%9C%A8+Hello%2C+I'm+Dima+Kolyas.+%F0%9F%8C%9F;%F0%9F%8E%89+Welcome+to+my+github+profile!+%F0%9F%9A%80" alt="Typing SVG" />
+</h1>
+
 <p align="center">
   
   ### About me:
